@@ -1,6 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="22" />
-    <option name="LINE_SPACING" value="1.5" />
+    <option name="FONT_SIZE" value="20" />
   </component>
 </application>
