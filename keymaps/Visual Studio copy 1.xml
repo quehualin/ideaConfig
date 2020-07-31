@@ -53,9 +53,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
-  <action id="FindUsagesInFile">
-    <keyboard-shortcut first-keystroke="shift g" />
-  </action>
+  <action id="FindUsagesInFile" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
