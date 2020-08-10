@@ -1,0 +1,5 @@
+<templateSet group="erlang">
+  <template name="com" value="%%-----------------------------------------------------------------&#10;%%  $NAME$&#10;%% -----------------------------------------------------------------" description="function comment" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
